@@ -1,0 +1,64 @@
+package com.shop.model;
+
+public class Account {
+  
+	private int accountId;
+    private String firstName;
+    private String lastName;
+    private String email;
+    private String password;
+    private int account_type_id;
+	public int getAccountId() {
+		return accountId;
+	}
+	public void setAccountId(int accountId) {
+		this.accountId = accountId;
+	}
+	public String getFirstName() {
+		return firstName;
+	}
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	public String getLastName() {
+		return lastName;
+	}
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	public int getAccount_type_id() {
+		return account_type_id;
+	}
+	public void setAccount_type_id(int account_type_id) {
+		this.account_type_id = account_type_id;
+	}
+	public Account(int accountId, String firstName, String lastName, String email, String password,
+			int account_type_id) {
+		super();
+		this.accountId = accountId;
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.email = email;
+		this.password = password;
+		this.account_type_id = account_type_id;
+	}
+	@Override
+	public String toString() {
+		return "Account [accountId=" + accountId + ", firstName=" + firstName + ", lastName=" + lastName + ", email="
+				+ email + ", password=" + password + ", account_type_id=" + account_type_id + "]";
+	}
+    
+}
+

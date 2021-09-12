@@ -1,0 +1,5 @@
+package com.dao;
+
+public interface AccountDAO {
+	public int createAccount(Account account) throws BusinessException;
+}

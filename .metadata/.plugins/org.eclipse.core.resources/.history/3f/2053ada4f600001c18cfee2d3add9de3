@@ -1,0 +1,15 @@
+package com.onlineshop.Exception;
+
+public class BusinessException {
+	public BusinessException() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public BusinessException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+
+}

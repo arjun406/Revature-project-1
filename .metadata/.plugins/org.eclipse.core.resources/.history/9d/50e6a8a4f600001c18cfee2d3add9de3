@@ -1,0 +1,5 @@
+package com.onlineshop.Exception;
+
+public class BusinessException {
+
+}

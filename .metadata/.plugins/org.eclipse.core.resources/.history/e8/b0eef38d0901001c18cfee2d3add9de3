@@ -1,0 +1,14 @@
+package com.service;
+
+import com.exception.BusinessException;
+import com.shop.model.Account;
+
+public class AccountServiceImpl implements AccountService {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	
+}

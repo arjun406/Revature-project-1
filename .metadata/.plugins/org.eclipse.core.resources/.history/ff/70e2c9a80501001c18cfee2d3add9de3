@@ -1,0 +1,119 @@
+package com.main;
+
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+import com.exception.BusinessException;
+
+public class Main {
+	
+	private static Logger log = Logger.getLogger(Main.class);
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+			Scanner scanner = new Scanner(System.in);
+			// UsersDAO userDAO=new UsersDAOImpl();
+
+			log.info("----------------------------");
+			log.info("Welcome to Online Shopping");
+			log.info("----------------------------");
+
+			int ch = 0;
+			do {
+				log.info("----------------------------");
+				log.info("please Login...............");
+				log.info("----------------------------");
+				log.info("1.Create User");
+				log.info("2.Employee Login");
+				log.info("3.customer Login");
+				log.info("4.Exit");
+				log.info("----------------------------");
+				log.info("Enter your choice Between (1-4)");
+				try {
+					ch = Integer.parseInt(scanner.nextLine());
+				} catch (NumberFormatException e) {
+					// log.warn("please Enter the any value");
+
+				}
+
+				switch (ch) {
+				case 1:
+					try {
+
+						//User user = new User();
+						log.info("create your Account");
+						log.info("Name");
+						String firstName = scanner.nextLine();
+						if (firstName.length() != 0 && firstName.matches("[A-za-z]{1,30}")) {
+							//user.setFirstName(firstName);
+						} else {
+							throw new BusinessException("Give proper FirstName");
+						}
+						log.info("Email");
+						String Email = scanner.nextLine();
+						if(Email.matches("^[A-Za-z0-9+_.-]+@delicious.com"))
+						{
+							//int e_id=2;
+							//user.setEmail(Email);
+							//user.setType_id(1);
+							//log.info("Hey employyee");
+
+						}
+						else if (Email.matches("^\\\\b[\\\\w.%-]+@[-.\\\\w]+\\\\.[A-Za-z]{2,4}\\\\b")) {
+							//user.setEmail(Email);
+							//log.info("Hey customer");
+							//int id=1;
+							//user.setType_id(2);
+						} 
+						
+						else {
+							throw new BusinessException("Give proper EmailId");
+						}
+						log.info("Phone Number");
+						String phoneNumber = scanner.nextLine();
+						if (phoneNumber.matches("\\d{10}$")) {
+							
+						} else {
+							throw new BusinessException("Give proper Phone Number");
+						}
+
+
+						log.info("New password");
+						String password = scanner.nextLine();
+						if (password.matches("[A-z]{1}[a-zA-Z0-9@_-]{7,20}")) {
+							//user.setPassword(Password);
+						} else {
+							throw new BusinessException("Give proper Password");
+						}
+
+						/*if (usersService.createUser(user) == 1)
+
+						{
+							log.info("Account Created Successfully");
+							log.info("Please login again");
+							log.info("Returning to Main menu.....");
+
+						} else {
+							log.info("Returning to Main Menu.....");
+						}*/
+
+					} catch (BusinessException e) {
+						log.warn(e.getMessage());
+					}
+					break;
+
+				
+				default:
+					log.warn("Invalid Entry");
+					break;
+				}
+
+			} while (ch != 4);
+
+		}
+
+
+	
+}

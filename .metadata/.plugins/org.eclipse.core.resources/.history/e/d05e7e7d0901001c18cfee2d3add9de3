@@ -1,0 +1,13 @@
+package com.service;
+
+import com.exception.BusinessException;
+import com.shop.model.Account;
+
+public interface AccountService {
+
+
+	public static int createAccount(Account account) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}

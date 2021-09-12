@@ -1,0 +1,391 @@
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - What you have to eat today
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:13:33 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:47 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:19:52 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 21:19:52 INFO  com.main.Main  - Name
+[main] 2021-08-19 21:19:58 WARN  com.main.Main  - Give proper FirstName
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 21:19:58 INFO  com.main.Main  - Name
+[main] 2021-08-19 21:20:04 INFO  com.main.Main  - Email
+[main] 2021-08-19 21:20:13 WARN  com.main.Main  - Give proper EmailId
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:20:13 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:20:17 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 21:20:17 INFO  com.main.Main  - Name
+[main] 2021-08-19 21:20:20 INFO  com.main.Main  - Email
+[main] 2021-08-19 21:20:30 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 21:20:36 INFO  com.main.Main  - New password
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:21:08 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:22:57 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:23:03 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 21:23:03 INFO  com.main.Main  - Name
+[main] 2021-08-19 21:23:06 INFO  com.main.Main  - Email
+[main] 2021-08-19 21:23:12 WARN  com.main.Main  - Give proper EmailId
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:23:12 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:13 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 21:24:21 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 21:24:21 INFO  com.main.Main  - Name
+[main] 2021-08-19 21:24:23 INFO  com.main.Main  - Email
+[main] 2021-08-19 21:24:29 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 21:24:34 INFO  com.main.Main  - New password
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 21:24:39 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:30:54 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:31:04 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:31:04 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:31:08 INFO  com.main.Main  - Email
+[main] 2021-08-19 22:31:14 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 22:31:20 INFO  com.main.Main  - Please Enter user type as CUST or EMP
+[main] 2021-08-19 22:31:23 WARN  com.main.Main  - Please give proper User Type
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:31:23 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:31:30 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:31:30 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:32:37 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:32:39 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:32:39 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:32:43 INFO  com.main.Main  - Email
+[main] 2021-08-19 22:32:51 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 22:32:56 INFO  com.main.Main  - Please Enter user type as CUST or EMP
+[main] 2021-08-19 22:32:58 INFO  com.main.Main  - Set password
+[main] 2021-08-19 22:33:09 ERROR com.dao.AccountDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'phoneNuber' in 'field list'
+[main] 2021-08-19 22:33:09 WARN  com.main.Main  - Internal Error Occured contact SysAdmin
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:33:09 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:06 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:34:12 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:34:12 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:34:16 INFO  com.main.Main  - Email
+[main] 2021-08-19 22:34:21 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 22:34:26 INFO  com.main.Main  - Please Enter user type as CUST or EMP
+[main] 2021-08-19 22:34:29 INFO  com.main.Main  - Set password
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - Account Created Successfully
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - Please login again
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - Returning to Main menu.....
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:34:39 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:12 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:39:40 WARN  com.main.Main  - Invalid Entry
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:40 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:39:45 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:39:45 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:39:49 WARN  com.main.Main  - Give proper FirstName
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:39:49 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - Welcome to Online Shopping
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:41:30 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 22:41:34 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 22:41:34 INFO  com.main.Main  - Name
+[main] 2021-08-19 22:41:42 INFO  com.main.Main  - Email
+[main] 2021-08-19 22:41:54 INFO  com.main.Main  - Phone Number
+[main] 2021-08-19 22:42:01 INFO  com.main.Main  - Please Enter user type as CUST or EMP
+[main] 2021-08-19 22:42:06 INFO  com.main.Main  - Set password
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - Account Created Successfully
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - Please login again
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - Returning to Main menu.....
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 22:42:20 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - Welcome to the world of Online Shopping
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - ==========================================
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:38:01 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:38:07 INFO  com.main.Main  - create your Account
+[main] 2021-08-19 23:38:07 INFO  com.main.Main  - Name
+[main] 2021-08-19 23:38:29 WARN  com.main.Main  - Give proper FirstName
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:38:29 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:38:35 WARN  com.main.Main  - Invalid Entry...
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:38:35 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:38:46 WARN  com.main.Main  - Invalid Entry...
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:38:46 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:38:54 WARN  com.main.Main  - Invalid Entry...
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:38:54 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:39:02 WARN  com.main.Main  - Invalid Entry...
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - ======================================
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - please Login...............
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - -=====================================
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - 1.Create User
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - =====================================
+[main] 2021-08-19 23:39:02 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 23:39:05 INFO  com.main.Main  - Thank you for using this app & have a nice day :)
+[main] 2021-08-19 23:39:05 WARN  com.main.Main  - Invalid Entry...
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - Welcome to the world of Online Shopping
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ==========================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ======================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - please Login...............
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - -=====================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 1.Create Account
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - =====================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ----------------------------
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - Welcome to the world of Online Shopping
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ==========================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - ======================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - please Login...............
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - -=====================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 1.Create Account
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - =====================================
+[main] 2021-08-20 15:42:01 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 15:42:06 INFO  com.main.Main  - create your Account
+[main] 2021-08-20 15:42:06 INFO  com.main.Main  - Name
+[main] 2021-08-20 15:42:12 INFO  com.main.Main  - Email
+[main] 2021-08-20 15:42:22 INFO  com.main.Main  - Phone Number
+[main] 2021-08-20 15:42:28 WARN  com.main.Main  - Give proper Phone Number
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - ======================================
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - please Login...............
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - -=====================================
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - 1.Create Account
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - =====================================
+[main] 2021-08-20 15:42:28 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 15:42:37 INFO  com.main.Main  - create your Account
+[main] 2021-08-20 15:42:37 INFO  com.main.Main  - Name
+[main] 2021-08-20 15:42:41 INFO  com.main.Main  - Email
+[main] 2021-08-20 15:42:49 INFO  com.main.Main  - Phone Number
+[main] 2021-08-20 15:42:54 INFO  com.main.Main  - Please Enter user type as CUST or EMP
+[main] 2021-08-20 15:43:01 INFO  com.main.Main  - Set password
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - Account Created Successfully!!!
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - Please login again
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - Returning to Main menu.....
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - ======================================
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - please Login...............
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - -=====================================
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - 1.Create Account
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - 2.Employee Login
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - 3.customer Login
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - 4.Exit
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - =====================================
+[main] 2021-08-20 15:43:13 INFO  com.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-21 10:43:27 INFO  com.main.Main  - create your Account
+[main] 2021-08-21 10:43:27 INFO  com.main.Main  - Name

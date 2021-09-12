@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.service.AccountService"/>
+<fullyQualifiedTypeName name="com.service.AccountServiceImpl"/>
+<fullyQualifiedTypeName name="com.shop.model.Account"/>
+<fullyQualifiedTypeName name="com.exception.BusinessException"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.dao.AccountDAO"/>
+<fullyQualifiedTypeName name="com.dao.AccountDAOImpl"/>
+</qualifiedTypeNameHistroy>

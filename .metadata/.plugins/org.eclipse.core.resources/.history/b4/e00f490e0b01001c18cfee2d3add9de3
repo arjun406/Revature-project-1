@@ -1,0 +1,16 @@
+package com.dao;
+
+import org.apache.log4j.Logger;
+
+import com.exception.BusinessException;
+import com.shop.model.Account;
+
+public class AccountDAOImpl implements AccountDAO {
+	private static final Logger log =Logger.getLogger(UsersDAOImpl.class);
+	@Override
+	public int createAccount(Account account) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
